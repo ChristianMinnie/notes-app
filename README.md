@@ -1,5 +1,5 @@
 # notes-app
-Note that index.js is written in plain JavaScript without any dependencies, while index2.js was built with the jQuery helper library. 
+*** Note that index.js is written in plain JavaScript without any dependencies, while index2.js was built with the jQuery helper library. ***
 
 This is a dynamic application built using both vanilla JS and jQuery that functions as a note taking app. 
 
